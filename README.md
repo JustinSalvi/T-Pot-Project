@@ -102,11 +102,11 @@ This is what the interface should look like once the git clone is loaded onto th
 
 # OSINT Gatherings
 
-I conducted an attack on the T-pot using a Kali box and utilized Spiderfoot to conduct Open-source intelligence against the attacking box.
+I conducted an attack on the T-pot using a Kali box and utilized Spiderfoot to conduct Open-source intelligence against the attacking box
 
 ![](https://imgur.com/aO3w0w6.png)
 
-Here are the results against the attacker box after a successful scan.
+Here are the results against the attacker box after a successful scan
 
 ![](https://imgur.com/6vqgxRk.png)
 
@@ -117,3 +117,5 @@ This deployment of a T-Pot was seamless and showed how robust open-source analyt
 ---
 
 This project is subject to further iterations and refinements. Viewer discretion is advised as the findings are based on a controlled environment and may not perfectly emulate real-world operational conditions.
+
+For more insight on the details of this project, please refer [here!](https://github.com/telekom-security/tpotce) 
