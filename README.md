@@ -66,7 +66,7 @@ Besides the ports generally needed by the OS, i.e. obtaining a DHCP lease, DNS, 
 
 1. Essentially once you spin up the vm and perform a `sudo apt update && sudo apt upgrade`.
 
-NOTE: YOU WILL NEED TO ENABLE OPEN SSH ON THE SERVER IN ORDER TO GET A PUTTY SESSION IN PLACE TO BE ABLE TO COPY AND PASTE SINCE UBUNTU SERVER WILL NOT LET YOU!
+*NOTE: YOU WILL NEED TO ENABLE OPEN SSH ON THE SERVER IN ORDER TO GET A PUTTY SESSION IN PLACE TO BE ABLE TO COPY AND PASTE SINCE UBUNTU SERVER WILL NOT LET YOU!*
 
 2. Type in `sudo apt install openssh-server` this will enable you to have ssh enabled in your server for secure access via Putty session.
 
