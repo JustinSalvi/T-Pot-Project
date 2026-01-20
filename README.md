@@ -1,4 +1,4 @@
-# How to deploy T-Pot (Honeypot) using Ubuntu Server 24.04.3 with VirtualBox!
+# How to Deploy T-Pot (Honeypot) Using Ubuntu Server 24.04.3 with VirtualBox!
 
 ## Project Summary
 
