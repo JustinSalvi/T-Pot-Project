@@ -11,6 +11,10 @@ This is the archictecture and a quick run down on what the logical connections a
 - **Oralce VirtualBox**
 - **Ubuntu Server 24.04.3**
 
+| Distribution Name                                                                  | x64                                                                                                                                   | arm64                                                                                                                                   |
+|:-----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
+| [Ubuntu 24.04.x Live Server](https://ubuntu.com/download/server)                   | [download](https://releases.ubuntu.com/24.04/ubuntu-24.04.3-live-server-amd64.iso)                                                    | [download](https://cdimage.ubuntu.com/releases/24.04/release/ubuntu-24.04.3-live-server-arm64.iso)                                      |
+
 # System Requirements
 
 Depending on the [supported Linux distro images](#choose-your-distro), hive / sensor, installing on [real hardware](#running-on-hardware), in a [virtual machine](#running-in-a-vm) or other environments there are different kind of requirements to be met regarding OS, RAM, storage and network for a successful installation of T-Pot (you can always adjust `~/tpotce/docker-compose.yml` and `~/tpotce/.env`to your needs to overcome these requirements).
