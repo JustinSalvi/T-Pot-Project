@@ -74,7 +74,7 @@ Besides the ports generally needed by the OS, i.e. obtaining a DHCP lease, DNS, 
 
 ![](https://imgur.com/vQxTkWO.png)
 
-3. Once that is finished, then create a file `nano docker-install.sh` to load [dependecies](https://wiki.kitpro.us/en/articles/docker-script) that are needed for the docker containers. 
+3. Once that is finished, then create a file `nano docker-install.sh` to load [dependecies](https://github.com/JustinSalvi/T-Pot-Project/blob/main/docker-install.sh) that are needed for the docker containers. 
 
 4. Then git clone [here](https://github.com/telekom-security/tpotce).
 
